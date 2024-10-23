@@ -1,0 +1,301 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper
+{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.footer a 
+{
+    color: darkred;
+    font-weight: bold;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.text-right
+{
+    text-align: right;
+}
+
+.footer
+{
+    background-color: #7ed6df;
+}
+
+.menu ul
+{
+    list-style-type: none;
+}
+
+.menu ul li
+{
+    display: inline;
+    padding: 1%;
+}
+
+.menu
+{
+    text-align: right;
+    border-bottom: 1px solid black;
+}
+
+.menu ul li a
+{
+    font-weight: bold;
+    color: brown;
+}
+
+.menu ul li a:hover
+{
+    color: #686de0;
+}
+
+/* MAIN CONTENT CODE IS HERE */
+
+.main-content
+{
+    background-color: #dff9fb;
+   
+}
+
+.boxes
+{
+    width: 17%;
+    background-color: white;
+    margin: 3%;
+    padding: 3%;
+    text-align: center;
+    float: left;
+}
+
+.clearfix
+{
+    float: none;
+    clear: both;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.table-full
+{
+    width: 100%;
+    color: white;
+}
+
+table tr th
+{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+table tr td
+{
+    padding: 1%;
+}
+
+.button
+{
+    background-color: #f0932b;
+    padding: 1%;
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.button:hover
+{
+    background-color: #686de0;
+}
+
+.table-30
+{
+    width: 30%;
+}
+
+.majkhane
+{
+    margin-left: 40%;
+}
+.majekhane
+{
+    margin-right: 45%;
+}
+
+/* BACKGROUNDS HERE */
+
+.bg001
+{
+    background-image: url("../images/bg001.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg002
+{
+    background-image: url("../images/bg002.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg003
+{
+    background-image: url("../images/bg003.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg004
+{
+    background-image: url("../images/bg004.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg005
+{
+    background-image: url("../images/bg005.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg006
+{
+    background-image: url("../images/bg006.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.emptybg
+{
+    border: 1px solid black;
+    padding: 1%;
+    background-color: gray;
+}
+
+.blankbg
+{
+    background-color: white;
+}
+
+.done
+{
+    color: darkgreen;
+    font-weight: bold;
+    font-size:xx-large;
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.failed
+{
+    color: darkred;
+    font-weight: bold;
+    font-size:xx-large;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.login
+{
+    border: 3px solid black;
+    width: 30%;
+    margin: 15% auto;
+    padding: 5%;
+    color: darkred;
+}
+
+.bg007
+{
+    background-image: url("../images/bg007.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.bg008
+{
+    background-image: url("../images/bg008.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg009
+{
+    background-image: url("../images/bg009.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg010
+{
+    background-image: url("../images/bg010.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.bg011
+{
+    background-image: url("../images/bg011.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    padding: 10% 1%;
+}
+
+.dashmajkhane
+{
+    margin-left: 19%;
+}
+
+.add_border
+{
+    border: solid black;
+}
+
+.button2
+{
+    background-color: skyblue;
+    padding: 1%;
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.button2:hover
+{
+    background-color: darkblue;
+}

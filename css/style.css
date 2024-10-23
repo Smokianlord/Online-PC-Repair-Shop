@@ -1,0 +1,260 @@
+*
+{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Container
+{    
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.img_responsive
+{
+    width: 100%;
+}
+
+.text-right
+{
+    text-align: right;
+}
+
+.clearfix
+{
+    clear: both;
+    float: none;
+}
+
+.Menu
+
+{
+    line-height: 60px;
+}
+
+.logo
+{
+    border: 1px solid black;
+    width: 10%;
+    float: left;
+}
+
+.Menu ul
+{
+    list-style-type: none;
+}
+
+.Menu ul li
+{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.Menu ul li a
+{
+    color: #ED4C67;
+}
+
+.Dead_end a 
+{
+    color: darkred;
+    font-weight: bold;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #1B1464;
+}
+
+.Menu ul li a:hover
+{
+    color: #1B1464;
+}
+
+.Search
+{
+    background-color: slategrey;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Search input[type="search"]
+{
+    width: 25%;
+    padding: 1%;
+    font-weight: bold;
+    border: none;
+}
+
+.button
+{
+    padding: 1%;
+    border: none;
+    background-color: skyblue;
+}
+
+.button-primary
+{
+    cursor: pointer;
+}
+
+.button-primary:hover
+{
+    background-color: #12CBC4; 
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+/* Categories Categories Categories Categories   Categories   Categories   Categories   Categories  */
+
+.Services
+{
+    background-color: #7f8c8d;
+    padding: 4% 0;
+}
+
+.box_2
+{
+    border: 1px solid #FF5733;
+    width: 31%;
+    float: left;
+    margin: 1%;
+}
+
+.image-curve
+{
+    border-radius: 20px;
+}
+
+.Dead_end
+{
+    background-color: slategrey;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* All our services  All our services  All our services  All our services  All our services  All our services*/
+
+.service_list
+{
+    border: 1px solid #FF5733;
+    width: 43%;
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    background-color: lightslategray;
+}
+
+.Service_Menu
+{
+    background-color: #95a5a6;
+    padding: 3% 0;
+}
+
+.center 
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.delete_border
+{
+    border: none;
+}
+
+.comp_image
+{
+    width: 20%;
+    float: left;
+}
+
+.comp_description
+{
+    width: 32%;
+    float: right;
+}
+
+.add_border
+{
+    border: solid black;
+}
+
+.Contact img
+{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.Contact
+{
+    background-color: whitesmoke;
+}
+
+.location
+{
+    border: 1px solid #FF5733;
+    width: 43%;
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    background-color: greenyellow;
+}
+
+.order
+{
+    background-color: aquamarine;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0 20%;
+}
+.input-responsive
+{
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.order-label
+{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+
+.bg_white
+{
+    background-color: white;
+}
+
+.bg_gray
+{
+    background-color: lightgray;
+}
+
+.Location
+{
+    background-color: silver;
+}
+
+.orderbg
+{
+    background-image: url("../images/orderbg.jpg");
+    background-repeat: no-repeat;
+    background-size: fill;
+    background-position: center;
+    background-color: slategrey;
+}
