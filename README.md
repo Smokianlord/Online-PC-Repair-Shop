@@ -34,7 +34,3 @@ images/           Site images
 partials-front/   Shared header/footer for the public site
 *.php             Public pages
 ```
-
-## License
-
-MIT, see [LICENSE](LICENSE).
